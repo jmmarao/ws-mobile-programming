@@ -10,10 +10,10 @@
 
 :ticket: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/), Java Development Kit used: [18](https://www.oracle.com/java/technologies/downloads/)
 
-:calendar: 1st semester 2021
+:calendar: 2nd semester 2022
 
 ## Subjects Summary
 
 - Class 01: Mobile programming introduction
-- Class 02: Android programming introduction
+- Class 02: [Android programming introduction](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class02)
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
