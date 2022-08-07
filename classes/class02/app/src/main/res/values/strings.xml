@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="type_an_initial_value">Type an initial value</string>
+    <string name="zero">0</string>
+    <string name="click">Click</string>
+</resources>
