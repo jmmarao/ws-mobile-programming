@@ -9,12 +9,14 @@
 
 :computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil
 
-:ticket: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/), Java Development Kit used: [18](https://www.oracle.com/java/technologies/downloads/)
+:ticket: IDE used: [Android Studio](https://developer.android.com/studio), Java Development Kit used: [18](https://www.oracle.com/java/technologies/downloads/), SDK Platform used: [Android API 32](https://developer.android.com/studio/releases/platforms)
+:iphone: Device Simulated: Nexus 4 API 19 (KitKat)
 
 :calendar: 2nd semester 2022
 
 ## Subjects Summary
 
 - Class 01: Mobile programming introduction
-- Class 02: [Android programming introduction](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class02)
+- Class 02: [Android programming introduction part 1](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class02)
+- Class 03: [Android programming introduction part 2](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class03)
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
