@@ -10,6 +10,7 @@
 :computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil
 
 :ticket: IDE used: [Android Studio](https://developer.android.com/studio), Java Development Kit used: [18](https://www.oracle.com/java/technologies/downloads/), SDK Platform used: [Android API 32](https://developer.android.com/studio/releases/platforms)
+
 :iphone: Device Simulated: Nexus 4 API 19 (KitKat)
 
 :calendar: 2nd semester 2022
