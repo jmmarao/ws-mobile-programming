@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Form Application</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="phone_hint">+XX XX XXXXX-XXXX</string>
+    <string name="email">Email</string>
+    <string name="checkbox_text_subscriber_list">Do you want to join the subscriber list?</string>
+    <string name="gender">Gender</string>
+    <string name="radio_gender_text_male">Male</string>
+    <string name="radio_gender_text_female">Female</string>
+    <string name="city">City</string>
+    <string name="federative_units">Federative Unit</string>
+    <string name="btn_text_clear">Clear</string>
+    <string name="btn_text_save">Save</string>
+</resources>
