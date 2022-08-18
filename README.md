@@ -21,4 +21,5 @@
 - Class 02: [Android programming introduction part 1](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class02)
 - Class 03: [Android programming introduction part 2](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class03)
     - Task 01: [Form application](https://github.com/jmmarao/ws-mobile-programming/tree/main/tasks/task01)
+- Class 04: [View visibility](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class04)
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
