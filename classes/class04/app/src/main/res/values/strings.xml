@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="fill_your_data">Fill your data</string>
+    <string name="name_hint">Name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="email_hint">Email</string>
+    <string name="radio_button_female">Female</string>
+    <string name="radio_button_male">Male</string>
+    <string name="button_save">Save</string>
+    <string name="button_clear">Clear</string>
+    <string name="partner_name_hint">Partner name</string>
+    <string name="partner_last_name_hint">Partner last name</string>
+
+    <string-array name="maritalStatus">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widow</item>
+    </string-array>
+</resources>
