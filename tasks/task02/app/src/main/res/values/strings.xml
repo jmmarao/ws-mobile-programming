@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Open to Work - Registration</string>
+    <string name="hint_inputName">Name</string>
+    <string name="hint_inputEmail">user@email.com</string>
+    <string name="hint_inputPhone">+XX XX XXXX-XXXX</string>
+    <string name="text_checkCellPhone">Include cell phone</string>
+    <string name="textView_text_gender">Gender</string>
+    <string name="text_radioButtonFemale">Female</string>
+    <string name="text_radioButtonMale">Male</string>
+    <string name="hint_inputBirthDate">Birth date (MM/dd/yyyy)</string>
+    <string name="textView_text_education">Education</string>
+    <string name="hint_inputConclusionYear">Conclusion year (yyyy)</string>
+    <string name="hint_inputInstitution">Institution</string>
+    <string name="hint_inputPostGraduateTitle">Paper title</string>
+    <string name="hint_inputSupervisor">Supervisor</string>
+    <string name="hint_inputInterestAreas">Areas of interest</string>
+    <string name="text_buttonRegister">Register</string>
+    <string name="text_buttonClear">Clear</string>
+
+    <string-array name="phoneType">
+        <item>Phone type</item>
+        <item>Comercial</item>
+        <item>Home</item>
+    </string-array>
+
+    <string-array name="educationLevel">
+        <item>Education level</item>
+        <item>Elementary School</item>
+        <item>High School</item>
+        <item>Degree</item>
+        <item>Specialization</item>
+        <item>Master Degree</item>
+        <item>Doctorate Degree</item>
+    </string-array>
+</resources>
