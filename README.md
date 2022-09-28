@@ -24,5 +24,7 @@
 - Class 04: [View visibility](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class04)
     - Task 02: [Open to work registration](https://github.com/jmmarao/ws-mobile-programming/tree/main/tasks/task02)
 - Class 05: [Kotlin introduction](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class05)
-    - Task 03: [Kotlin introduction](https://github.com/jmmarao/ws-mobile-programming/tree/main/tasks/task03)
+    - Task 03: [Kotlin introduction - part 1](https://github.com/jmmarao/ws-mobile-programming/tree/main/tasks/task03)
+- Class 06: [Kotlin introduction - part 2](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class06)
+
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
