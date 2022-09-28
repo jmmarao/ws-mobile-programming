@@ -26,5 +26,6 @@
 - Class 05: [Kotlin introduction](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class05)
     - Task 03: [Kotlin introduction - part 1](https://github.com/jmmarao/ws-mobile-programming/tree/main/tasks/task03)
 - Class 06: [Kotlin introduction - part 2](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class06)
+- Class 07: [Activity life cycle](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class07)
 
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
