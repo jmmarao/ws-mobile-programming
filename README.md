@@ -28,5 +28,5 @@
 - Class 06: [Kotlin introduction - part 2](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class06)
 - Class 07: [Activity life cycle](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class07)
 - Class 08: [Intents](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/class08)
-- Class 09, 10 and 11: [Contact List App](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/MyContacts-2022-2)
+- Class 09, 10, 11 and 12: [Contact List App](https://github.com/jmmarao/ws-mobile-programming/tree/main/classes/MyContacts-2022-2)
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
