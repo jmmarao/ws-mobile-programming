@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473271613745",
+    "project_id": "mycontactsbackendjones",
+    "storage_bucket": "mycontactsbackendjones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473271613745:android:49ed9aeaf22d280516d810",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.ads.pdm.mycontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473271613745-8ccf9chq3ur4o2utn1d747j5difobdp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsp.ads.pdm.mycontacts",
+            "certificate_hash": "c1927f7bf3f59c190590b8bddf5242291ab91aae"
+          }
+        },
+        {
+          "client_id": "473271613745-p36frhn0sf7u6ekp5t2gov6fbsj4u846.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztgReSg55o6MYxwQSgI4zAs54EOhOxOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473271613745-p36frhn0sf7u6ekp5t2gov6fbsj4u846.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
